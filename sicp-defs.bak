@@ -1,9 +1,5 @@
 #lang sicp
-;This is a collection of all the definitions
-;given in the SICP book
-;Loading and importing modules has proved tricky...
-;so I am manually copying and pasting...
-;sue me
+
 (define (square x) (* x x))
 (define (cube x) (* x x x))
 (define (sqrt x)
