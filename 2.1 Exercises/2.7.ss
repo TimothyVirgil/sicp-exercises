@@ -1,4 +1,5 @@
 #lang sicp
+(#%provide (all-defined))
 ;SICP exercise 2.7
 
 (define (add-interval x y)
